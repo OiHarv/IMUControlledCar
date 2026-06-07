@@ -1,6 +1,7 @@
 # IMUControlledCar
 An IMU Controlled RC Car for Hack Club Fallout
 
+'''
 	This project is a small RC Car with an attachment at the top meant for a weapon. Instead of being controlled with a normal joystick remote, though, it is controlled via hand movement through an IMU (Inertial Measurement Unit) inside the remote, which in turn is strapped to your hand to make controlling the robot feel more natural.
 
 	The way you use it is simply by putting the remote on your hand, starting up the firmware and calibrating the IMU if needed, turning the car on and controlling it right then and there.
@@ -13,3 +14,4 @@ Holding your hand out, with your palm parallel to the floor will have the car no
 	This project is meant to be edited. If you want to change the face from being a pirate to an astronaut, be my guest. If you want to add the jump feature or a twirl feature, the code is open and everything is downloadable.
 
   The guide on how to build it is in the Assembly Guide (seperate document). Any files, images, etc. are in properly marked folders elsewhere in the project. This document is meant to explain what and why this project is.
+  '''
