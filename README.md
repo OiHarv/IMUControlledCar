@@ -1,5 +1,5 @@
 # IMUControlledCar
-An IMU Controlled RC Car for [Hack Club Fallout](https://hackclub.fallout.com)
+An IMU Controlled RC Car for [Hack Club Fallout](https://fallout.hackclub.com)
 
 
 This project is a small RC Car with an attachment at the top meant for a weapon. 
